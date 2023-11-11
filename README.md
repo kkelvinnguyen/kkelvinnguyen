@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kelvin!</h1>
 <h3 align="center">A new coder who is excited to learn and grow!</h3>
 
-- 💭 I’m currently working on [my personal website! Check it out →](https://kkelvinnguyen.github.io/)
+- 💭 I’m currently working on my personal website! [Check it out!](https://kkelvinnguyen.github.io/)
 
 - 🔭 I'm looking to learn more about **app development!**
 
