@@ -1,10 +1,11 @@
-<h1 align="center">Hi there, I'm Kelvin!</h1>
-<h3 align="center">A first year at at Queen's University studying Computer Science.</h3>
+# Hey! I'm Kelvin! 👋
 
-- 💭 Check out my [portfolio](https://kkelvinnguyen.github.io/kelvin-portfolio/)!
+### • Computer Science @ <img src="https://upload.wikimedia.org/wikipedia/en/3/3d/Queen%27s_University_at_Kingston_shield.svg" width="22" /> Queen's University
 
-- 🔭 I'm looking to learn more about **app and web development!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kelvin-nguyen-8a3347276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin-nguyen-8a3347276" height="30" width="40" /></a>
+### 📧 email: [kelvin.nguyen@queensu.ca](mailto:kelvin.nguyen@queensu.ca)
+
+### 💼 linkedin: [https://www.linkedin.com/in/nguyen-kelvin/](https://www.linkedin.com/in/nguyen-kelvin/)
+
+### 🌐 website: [https://kkelvinnguyen.github.io/kelvin-portfolio/](https://kkelvinnguyen.github.io/kelvin-portfolio/)
